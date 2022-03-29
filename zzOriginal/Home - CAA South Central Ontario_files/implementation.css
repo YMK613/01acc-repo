@@ -1,0 +1,17 @@
+﻿.hidden{
+    display: none !important;
+}
+
+/* .article-show-more {
+    margin-bottom: 10px;
+} */ /* * NCC-610 / */
+
+.search-results__url {
+    word-wrap : break-word;
+}
+
+@media (min-width:600px) {
+    .makeblock {
+        display: block;
+    }
+}
